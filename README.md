@@ -1,6 +1,6 @@
 ## Reference
     - https://denford.me/cucumber-js-tutorial-cfb053fe3e7
-        - https://github.com/denford/TuteCumber
+        - https://github.com/denford/TuteCumbernpm install -g protractor
 
 ## Setup
 ```
