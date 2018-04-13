@@ -1,0 +1,16 @@
+{
+  "name": "CucumberStudy",
+  "version": "0.0.1",
+  "private": false,
+  "repository": {
+    "type": "git"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/cucumber-js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "cucumber": "^4.2.1",
+    "protractor": "^5.3.1"
+  }
+}
