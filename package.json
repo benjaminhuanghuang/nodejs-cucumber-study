@@ -6,12 +6,13 @@
     "type": "git"
   },
   "scripts": {
-    "test": "./node_modules/.bin/cucumber-js",
+    "cucumber": "cucumber-js",
     "demo": "node test-demo.js"
   },
   "dependencies": {},
   "devDependencies": {
     "cucumber": "^4.2.1",
-    "selenium-webdriver":"^4.0.0-alpha.1"
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "chai": "^4.1.2"
   }
 }

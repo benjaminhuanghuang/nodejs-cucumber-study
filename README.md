@@ -1,6 +1,7 @@
 ## Reference
     - https://denford.me/cucumber-js-tutorial-cfb053fe3e7
         - https://github.com/denford/TuteCumbernpm install -g protractor
+    - BDD in JavaScript: Getting Started with Cucumber and Gherkin
 
 ## Setup
 ```
@@ -15,4 +16,11 @@ If put it into node_modules/.bin, need to add a script to run the test script：
     "scripts": {
         "demo": "node test-demo.js"
     }
+```
+
+
+## Command
+Run specific feature file
+```
+
 ```
