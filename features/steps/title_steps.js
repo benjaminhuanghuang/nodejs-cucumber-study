@@ -1,4 +1,5 @@
 var { Given, When, Then } = require('cucumber');
+var { browser } = require('selenium-webdriver');
 
 const expect = require('chai').expect;
 
